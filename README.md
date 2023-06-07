@@ -6,4 +6,4 @@
 ### The data is free and available to download on the following link from the open-source platform – kaggle.com 
 ### https://www.kaggle.com/datasets/mylesoneill/world-university-rankings
 # Tableau storyboard link
-### https://www.kaggle.com/datasets/mylesoneill/world-university-rankings
+### https://public.tableau.com/app/profile/trajche.sazdov/viz/TS_EX_6_7/Story1?publish=yes
